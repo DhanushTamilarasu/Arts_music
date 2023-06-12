@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to left , white, rgb(241, 128, 217), rgb(84, 241, 241));
+}
+p{
+    margin-top: 40px;
+    margin-left: 124px;
+    font-family: Verdana,'Times New Roman', Times, serif Tahoma, sans-serif;
+    background: url("/Rio_music_01.jpg");
+}
+.align
+{
+    background: url("/Rio_music_01.jpg");
+    width: 100px;
+    height: 100px;
+    margin-top: 70px;
+    margin-left: 640px;
+}
