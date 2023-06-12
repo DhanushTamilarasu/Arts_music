@@ -4,7 +4,7 @@ document.querySelector("#go").onclick=()=>{
     let y=document.querySelector("#id").value;  
     console.log(x)  
     if(x=="Musician@12345"&&y=="world@#1"){
-        window.location.href="./Music_Page.html";
+        window.location.href="Music_Page.html";
     }
     else
     alert("please fill out the valid details");
